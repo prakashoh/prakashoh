@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# 👋 Hi, I'm Prakash Raj
+# 👋 Hi, I'm Prakash 
 
 ### 🎓 Artificial Intelligence & Machine Learning Student | 💻 Python Developer | 🤖 ML Enthusiast
 
